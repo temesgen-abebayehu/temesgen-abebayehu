@@ -20,11 +20,9 @@
 
 **Languages:** Go, Python, Java, JavaScript, C++, TypeScript  
 
-**Frontend Frameworks & Tools:**  
-React.js, UI/UX, Figma, Adobe Photoshop, Adobe Illustrator  
+**Frontend Frameworks & Tools:** React.js, UI/UX, Figma, Adobe Photoshop, Adobe Illustrator  
 
-**Backend Frameworks:**  
-Django, Node.js, Gin
+**Backend Frameworks:** Django, Node.js, Gin
 
 **Databases:** MySQL, MongoDB, PostgreSQL  
 
