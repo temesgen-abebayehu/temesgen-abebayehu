@@ -84,28 +84,12 @@
 
 ---
 
-## 🌟 Featured Projects
-
-### 🧠 AI-Powered Blog Platform (07/2025 – 08/2025)
-- Built a production-ready platform with JWT/OAuth authentication and AI-driven content moderation
-- Achieved 91% test coverage with rigorous unit testing
-- Containerized with Docker and automated deployment for 99.8% uptime
-- Improved load times by 40% using Redis caching and Cloudinary CDN
-
-### 🏥 HuluTena – Full-Stack Healthcare App (10/2024 – 01/2025)
-- Developed a healthcare platform with appointment booking and community features
-- Reduced page load time by 25% via React component optimization
-
----
-
 ## 🌍 Connect with Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/temesgen-abebayehu)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Temuab21)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:temesgen909021@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.temesgenabebayehu.me/)
 
 </div>
 
