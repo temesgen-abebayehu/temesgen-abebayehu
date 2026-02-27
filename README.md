@@ -1,124 +1,64 @@
-<div align="center">
+# Temesgen Abebayehu
 
-```
-████████╗███████╗███╗   ███╗███████╗███████╗ ██████╗ ███████╗███╗   ██╗
-╚══██╔══╝██╔════╝████╗ ████║██╔════╝██╔════╝██╔════╝ ██╔════╝████╗  ██║
-   ██║   █████╗  ██╔████╔██║█████╗  ███████╗██║  ███╗█████╗  ██╔██╗ ██║
-   ██║   ██╔══╝  ██║╚██╔╝██║██╔══╝  ╚════██║██║   ██║██╔══╝  ██║╚██╗██║
-   ██║   ███████╗██║ ╚═╝ ██║███████╗███████║╚██████╔╝███████╗██║ ╚████║
-   ╚═╝   ╚══════╝╚═╝     ╚═╝╚══════╝╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝
-```
+**Senior Full-Stack Software Engineer | Backend Specialist**
 
-### 👋 Welcome to my GitHub Universe! 
-
-**🌍 Full-Stack Engineer | 🚀 Backend Enthusiast | 💡 Creative Technologist**
-
-> *"Nothing can be gained without losing, even heaven demands death"*
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=500&lines=Building+scalable+solutions;Passionate+about+clean+code;Always+learning+new+technologies;Creating+impactful+software)](https://git.io/typing-svg)
-
-</div>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Temuab21)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:temesgen909021@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/temesgen-abebayehu)
 
 ---
 
-## 🚀 About Me
+I build **high-throughput backend systems**, **distributed microservices**, and **scalable APIs** — primarily in **Go** and **Python**. My focus is on clean architecture, system reliability, and shipping production-grade software.
 
-🔭 **Who I am:** A passionate Full-Stack Engineer who thrives at the intersection of robust backend architectures and seamless user experiences
-
-🌱 **What drives me:** Solving real-world problems with code, curiosity, and a relentless pursuit of innovation
-
-💡 **My philosophy:** Always exploring, building, breaking, and pushing creative boundaries in software development
-
-🎯 **Current focus:** Building scalable systems, exploring cloud technologies, and contributing to open-source projects
+- 🔧 &nbsp;Building scalable **microservices** and **Go backend APIs**
+- 📐 &nbsp;Deepening expertise in **System Design** and exploring **Rust**
+- 🧠 &nbsp;Applied AI — **RAG pipelines**, **embeddings**, **semantic search**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**Languages**
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-### ⚙️ Backend
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Gin](https://img.shields.io/badge/gin-%23000000.svg?style=for-the-badge&logo=go&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+**Frameworks**
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-000000?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-### 🛠️ Tools & DevOps
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+**Databases**
 
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-## 📊 GitHub Stats
+**Cloud & DevOps**
 
-<div align="center">
-  
-![Temesgen's GitHub stats](https://github-readme-stats.vercel.app/api?username=temesgen-abebayehu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=temesgen-abebayehu&theme=tokyonight&hide_border=true)
+**Architecture & AI**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=temesgen-abebayehu&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🌍 Connect with Me
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Temuab21)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:temesgen909021@gmail.com)
-
-</div>
-
----
-
-## ✨ Fun Facts
-
-🎭 **Random Quote Generator:** "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-🎮 **When I'm not coding:** You'll find me exploring the latest tech trends, contributing to open-source, or diving into system design patterns
-
-🌟 **Philosophy:** Every bug is a feature waiting to be discovered!
-
-🚀 **Current obsession:** Building microservices that scale to infinity and beyond
+`Microservices` · `Distributed Systems` · `RESTful APIs` · `gRPC` · `Event-Driven Architecture` · `RAG Pipelines` · `Semantic Search` · `LLM Integration`
 
 ---
 
 <div align="center">
-
-### 🎯 Let's Build Something Amazing Together!
-
-💡 **Check out my pinned repositories below** for some exciting projects!  
-⭐ **Star** anything that sparks your interest  
-🤝 **Let's connect** and create impactful software solutions
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=temesgen-abebayehu&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-*"In the world of code, every commit is a step towards a better tomorrow"*
-
+  <i>Open to collaborations on backend-heavy, distributed, and AI-integrated systems.</i>
 </div>
